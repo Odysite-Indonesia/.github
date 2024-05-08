@@ -1,5 +1,6 @@
-## Hi there 👋
+## Halo disana 👋
 
+Odysite Indonesia adalah sebuah website hosting dan agency yang berfokus pada mengembangkan bisnis dan usaha kecil.
 <!--
 
 **Here are some ideas to get you started:**
